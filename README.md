@@ -38,6 +38,8 @@ https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T01.02#/?f=M&start=19
 
 Enables download of MER_T01_02.csv this is our Figure 1 and Dataframe 1. The units are Quadrillion Btu.
 
+Added monthly and annual CSV for plotting figure for question 1.
+
 
 # Question 2
 
