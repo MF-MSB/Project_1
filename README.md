@@ -31,9 +31,21 @@ Question 6) What’s the marginal benefit and marginal of wind turbine productio
 Math. 
 
 
-# USeful URLs
+# Question 1
 
 
 https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T01.02#/?f=M&start=198307&end=202309&charted=1-2-3-4-6-13
 
 Enables download of MER_T01_02.csv this is our Figure 1 and Dataframe 1. The units are Quadrillion Btu.
+
+
+# Question 2
+
+# Question 3
+
+# Question 4
+
+# Question 5
+
+# Question 6
+
