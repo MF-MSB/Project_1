@@ -40,8 +40,11 @@ Enables download of MER_T01_02.csv this is our Figure 1 and Dataframe 1. The uni
 
 Added monthly and annual CSV for plotting figure for question 1.
 
+I'm happy with dataframe and I believe it can be used to generate some addtional stats
 
 # Question 2
+
+Part 1 and Part 2. Part 1 was to get the data extracted from the CSV files in a way that they could be merged. Part 2 is the merge and graph plotting.
 
 # Question 3
 
